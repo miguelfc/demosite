@@ -1,6 +1,6 @@
 ## This is the Third Page
 
-[Second Page](second), [Third Page](third)
+[Second Page](second), [Main](index)
 
 Ridiculus vestibulum maecenas hac cursus cubilia varius dignissim, eu vel magnis lectus habitasse suscipit, dapibus quam tristique nisl id convallis. 
 
